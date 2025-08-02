@@ -9,13 +9,14 @@
 <body>
     <H1>LOGIN</H1>
     <DIV>
-        <form action="" method="get">
+        <form onsubmit="alert('sucessfully submitted')" return="false"  method="get">
             <label for="username"> USER NAME</label>
             <input type="text" name="username" ID="username" placeholder="Enter your name" required>
                      <label for="Password"> PASSWORD</label>
             <input type="password" name="password" ID="password" placeholder="Enter your password" required>
-            <!-- <input type="button" name="sumbit" value="submitted"> -->
-             <button>submitted</button>
+           
+            <input type="submit"  name="submitbutton" >
+           
         </form>
     </DIV>
 </body>
