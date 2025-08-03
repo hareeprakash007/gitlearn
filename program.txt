@@ -1,2 +1,6 @@
 i use long here;
+<<<<<<< HEAD
 assign value in long
+=======
+assigned from test2
+>>>>>>> test2
