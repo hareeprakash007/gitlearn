@@ -1,1 +1,1 @@
-i use long here;
+i use int here;
