@@ -1,1 +1,2 @@
 i use long here;
+assign value in long
