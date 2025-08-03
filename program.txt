@@ -1,2 +1,3 @@
-i use long here;
-assigned from test2
+
+assign value in long
+
