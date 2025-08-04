@@ -1,4 +1,2 @@
-
-
-assign value in long
+int i=10;
 
